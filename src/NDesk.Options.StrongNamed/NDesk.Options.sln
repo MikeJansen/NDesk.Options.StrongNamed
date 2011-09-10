@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDesk.Options", "NDesk.Options.csproj", "{F2C4F557-36A7-4308-8271-D0D1A4685503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C4F557-36A7-4308-8271-D0D1A4685503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C4F557-36A7-4308-8271-D0D1A4685503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C4F557-36A7-4308-8271-D0D1A4685503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C4F557-36A7-4308-8271-D0D1A4685503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
